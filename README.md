@@ -1,1 +1,1 @@
-# angular-pipes-app-klerith-instructor
+# PipesApp
