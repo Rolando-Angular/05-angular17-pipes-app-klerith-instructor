@@ -1,6 +1,7 @@
 # PipesApp
 
 ### Technologies
+### RouterModule (forRoot + forChild) + Router + routerLink
 
 ### PrimeNg
 
