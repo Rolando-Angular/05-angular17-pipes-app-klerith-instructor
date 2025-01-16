@@ -11,7 +11,8 @@
 #### 1. execute on terminal
 ```
 npm install primeicons@17
-npm install npm install primeicons
+npm install primeicons
+npm install primeflex
 ```
 #### 2. put on styles.css
 ```
