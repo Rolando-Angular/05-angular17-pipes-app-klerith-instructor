@@ -2,6 +2,15 @@
 
 ### Technologies
 ### RouterModule (forRoot + forChild) + Router + routerLink
+### @angular/common/locales + registerLocaleData
+
+### Pipes
+* lowercase
+* uppercase
+* titlecase
+* date
+* number
+* currency
 
 ### PrimeNg
 
