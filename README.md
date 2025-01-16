@@ -19,6 +19,7 @@ npm install primeflex
 @import "primeng/resources/themes/lara-dark-indigo/theme.css";
 @import "primeng/resources/primeng.css";
 @import "primeicons/primeicons.css";
+@import "primeflex/primeflex.min.css";
 ```
 ### 3. setup ripple
 ```
