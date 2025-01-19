@@ -11,6 +11,12 @@
 * date
 * number
 * currency
+* i18nSelect
+* i18nPlural
+* slice
+* json
+* keyvalue
+* async
 
 ### PrimeNg
 
