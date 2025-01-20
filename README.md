@@ -3,6 +3,7 @@
 ### Technologies
 ### RouterModule (forRoot + forChild) + Router + routerLink
 ### @angular/common/locales + registerLocaleData
+### @Pipe + PipeTransform
 
 ### Pipes
 * lowercase
