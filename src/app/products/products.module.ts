@@ -7,6 +7,7 @@ import { PrimeNgModule } from "../prime-ng/prime-ng.module";
 import { ProductsRoutingModule } from "./products-routing.module";
 import { UncommonPageComponent } from './pages/uncommon-page/uncommon-page.component';
 import { CanFlyPipe } from "./pipes/can-fly.pipe";
+import { SortByPipe } from './pipes/sort-by.pipe';
 import { ToggleCasePipe } from "./pipes/togglecase.pipe";
 
 @NgModule({
@@ -18,7 +19,8 @@ import { ToggleCasePipe } from "./pipes/togglecase.pipe";
 
     // Pipes
     CanFlyPipe,
-    ToggleCasePipe
+    SortByPipe,
+    ToggleCasePipe,
   ],
   imports: [
     CommonModule,

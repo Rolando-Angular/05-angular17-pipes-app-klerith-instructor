@@ -1,6 +1,5 @@
 import { Pipe, PipeTransform } from "@angular/core";
-
-type Fly = 'vuela' | 'no vuela';
+import { Fly } from "../interfaces/hero.type";
 
 @Pipe({
   name: 'canFly'
