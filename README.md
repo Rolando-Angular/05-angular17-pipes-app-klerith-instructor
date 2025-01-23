@@ -44,3 +44,4 @@ public ngOnInit(): void {
 ```
 
 # My Page deployed thanks to GitHub Pages:
+https://rolando-angular.github.io/angular-pipes-app-klerith-instructor/
