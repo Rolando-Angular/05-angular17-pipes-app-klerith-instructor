@@ -26,7 +26,6 @@
 [primeNG](https://v17.primeng.org/configuration)
 #### 1. execute on terminal
 ```
-npm install primeicons@17
 npm install primeicons
 npm install primeflex
 ```
@@ -43,3 +42,5 @@ public ngOnInit(): void {
   this.primengConfig.ripple = true;
 }
 ```
+
+# My Page deployed thanks to GitHub Pages:
