@@ -26,6 +26,7 @@
 [primeNG](https://v17.primeng.org/configuration)
 #### 1. execute on terminal
 ```
+npm install primeng
 npm install primeicons
 npm install primeflex
 ```
